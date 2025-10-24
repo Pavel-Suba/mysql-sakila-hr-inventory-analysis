@@ -68,4 +68,4 @@ A **Subquery with the `NOT IN`** operator was used to identify films present in 
 
 ## ⚙️ Technical Appendix
 
-The complete SQL code used to generate these results and recommendations is available in the [`queries.sql`](http://queries.sql) file. All queries were tested and executed against the `sakila10_155` schema.  
+The complete SQL code used to generate these results and recommendations is available in the [`queries.sql`](queries.sql) file. All queries were tested and executed against the `sakila10_155` schema.  
